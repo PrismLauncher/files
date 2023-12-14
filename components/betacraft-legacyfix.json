@@ -1,0 +1,14 @@
+{
+    "+agents": [
+        {
+            "name": "uk.betacraft:legacyfix:nightly-7ff1a85",
+            "url": "https://files.prismlauncher.org/maven"
+        }
+    ],
+    "+jvmArgs": [
+        "-Dlf.deAWT=true"
+    ],
+    "formatVersion": 1,
+    "name": "BetaCraft LegacyFix",
+    "uid": "uk.betacraft.legacyfix"
+}
